@@ -27,33 +27,4 @@ Comparing to the natural images for which the DNNs are usually designed for, the
 
  * ```notebooks/utils.py``` contains helpful functions
 
-## Setup
-### Prepare the environment
- You could either clone the **github repo** or directly using the enviorment prebuild through **binder**
-
-  * open a terminal and type:
-```
-git clone https://github.com/zhangyu2ustc/gcn_tutorial_test.git
-``` 
-
- * Or Click the link to [binder](https://mybinder.org/v2/gh/zhangyu2ustc/gcn_tutorial_test/master?filepath=notebooks%2F) in your browser
-
-
-### Check the notebook 
-  Go to notebook folder and find the .ipynb [notebook](https://github.com/zhangyu2ustc/gcn_tutorial_test/blob/master/notebooks/Tutorials_GCN_practice2_graph-Laplacian_GCN.ipynb)
-
-  Note: It could take a while for the binder to build the enviornment (around 5 minutes). Be patient !  
-
-
-
-
-\
-\
-## Slides
- check the presentation slides here: [GCN_tutorial_slides](https://drive.google.com/file/d/1Gu28WcHXlwjXQSSmqZZwIcESHff_j-J4/view?usp=sharing)
-
-## References
-<a id="1">[1]</a> Zhang, Yu, and Pierre Bellec. "Functional Decoding using Convolutional Networks on Brain Graphs." 2019 Conference on Cognitive Computational Neuroscience, Berlin, Germany [PDF](https://ccneuro.org/2019/proceedings/0001137.pdf)
-
-<a id="2">[2]</a> Zhang, Yu, and Pierre Bellec. "Functional Annotation of Human Cognitive States using Graph Convolution Networks." 2019 Conference on Neural Information Processing Systems (NeurIPS) Neuro-AI workshop - Real Neurons & Hidden Units, Vancouver, Canada [PDF](https://openreview.net/pdf?id=HJenmmF8Ir)
 
