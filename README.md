@@ -1,7 +1,7 @@
 
 
 # benchmark of cnn for fmri decoding
-In this project, we attempts to train the classical deep neural network architectures from scratch in order to analyze brain imaging data and specificially focused on brain decoding using functional MRI (fMRI). Brain decoding aims to infer cognitive functions from the recorded brain response. Here, we develop a pipeline which takes a short series of fMRI scans as input and predicts the corresponding cognitive states. We mainly tested two DNN architectures, i.e. _**3d-CNN**_ and _**ResNet50**_ 
+In this project, we attempts to analyze brain imaging data by training the classical deep neural network architectures from scratch. We specificially focused on brain decoding using functional MRI (fMRI). Brain decoding aims to infer cognitive functions from the recorded brain response. Here, we develop a pipeline which takes a short series of fMRI scans as input and predicts the corresponding cognitive states. We mainly tested two DNN architectures, i.e. _**3d-CNN**_ and _**ResNet50**_ 
 
 
 ## Introduction
